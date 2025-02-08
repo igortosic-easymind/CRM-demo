@@ -47,7 +47,7 @@ Project documentation is available in the [/docs](/docs) directory:
 
 ## Demo
 
-Try out CRM: [Live Demo](https://crm-demo.vercel.app)
+Try out CRM: [Live Demo](https://crm-demo-easymind.vercel.app)
 
 Demo credentials:
 - Username: `testuser`
